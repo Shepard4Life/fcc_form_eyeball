@@ -3,6 +3,7 @@ body {
     text-align: center;
     background: linear-gradient(0deg, rgba(100, 100, 255, 0.5), rgba(100, 100, 255, 0.5)), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg), center, center, no-repeat;
     background-size: cover;
+    background-position: center;
     font-family: 'Poppins', sans-serif;
 }
 
